@@ -14,4 +14,4 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attarmehran&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=attarmehran&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-![Top Language](https://img.shields.io/github/languages/top/attarmehran)
+![Top Language](https://img.shields.io/github/languages/top/attarmehran?tab=repositories)
